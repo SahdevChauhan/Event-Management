@@ -1,0 +1,11 @@
+
+Dulhan name: suhani
+Dulha name: sahdev
+Marrige_budget : 10000000
+Address : bhutiya
+Sound_System : Rocks
+Gujrati Food : Khaman
+Chinese Food : Maggy
+
+
+

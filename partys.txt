@@ -1,0 +1,7 @@
+
+
+NameOfOrganiser : sahdev
+cotsume : rocks styles
+Address : bhutiya
+ListOfGuest : 1000
+Budgets : 10000000 
